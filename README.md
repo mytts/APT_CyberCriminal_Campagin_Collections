@@ -10,6 +10,7 @@ Please fire issue to me if any lost of APT/Malware events/campaigns.
 * [Attack Wiki](https://attack.mitre.org/wiki/Groups)
 
 ## 2017
+* Apr 11 - [Unraveling the Lamberts Toolkit An Overview of a Color-coded Multi-Stage Arsenal](https://securelist.com/blog/research/77990/unraveling-the-lamberts-toolkit/)
 * Apr 10 - [Longhorn: Tools used by cyberespionage group linked to Vault 7](https://www.symantec.com/connect/blogs/longhorn-tools-used-cyberespionage-group-linked-vault-7)
 * Apr 05 - [In-Depth Look at New Variant of MONSOON APT Backdoor part-1](http://blog.fortinet.com/2017/04/05/in-depth-look-at-new-variant-of-monsoon-apt-backdoor-part-1) , [part-2](http://blog.fortinet.com/2017/04/05/in-depth-look-at-new-variant-of-monsoon-apt-backdoor-part-2)
 * Mar 06 - [From Shamoon to StoneDrill](https://securelist.com/blog/research/77725/from-shamoon-to-stonedrill/) | [Local](../../blob/master/2017/2017.03.06.from-shamoon-to-stonedrill)
